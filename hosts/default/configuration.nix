@@ -114,12 +114,15 @@
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
+  home-manager
+
   google-chrome
   zed-editor
   obsidian
   spotify
   ghostty
   kitty
+
   vim
   neovim
   zsh
