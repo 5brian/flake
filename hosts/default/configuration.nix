@@ -125,6 +125,7 @@
   kmonad
 
   nodejs
+  rustup
   vim
   neovim
   zsh
