@@ -122,7 +122,9 @@
   spotify
   ghostty
   kitty
+  kmonad
 
+  nodejs
   vim
   neovim
   zsh
